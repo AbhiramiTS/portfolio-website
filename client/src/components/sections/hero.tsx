@@ -15,7 +15,7 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
             >
-              Where Tradition Meets Innovation in Glass
+              Where Tradition Meets Innovation in Mirror
             </motion.h1>
 
             <motion.p 
@@ -24,7 +24,7 @@ export default function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Leading glass manufacturer in Kannur, combining traditional craftsmanship with cutting-edge technology. From custom designs to smart glass solutions, we're shaping the future of glass manufacturing.
+              Leading mirror manufacturer in Kannur, combining traditional craftsmanship with cutting-edge technology. From custom designs to smart mirror solutions, we're shaping the future of mirror manufacturing.
             </motion.p>
 
             <motion.div
