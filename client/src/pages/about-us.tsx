@@ -11,12 +11,12 @@ const achievements = [
   {
     icon: Award,
     title: "Award Winning",
-    description: "Recognized with Best Entrepreneur Award by Kerala Minister"
+    description: "Recognized with Best Entrepreneur Award by Govt. of Kerala"
   },
   {
     icon: Stars,
     title: "Expert Craftsmanship",
-    description: "Decades of expertise in glass manufacturing"
+    description: "Decades of expertise in mirror manufacturing"
   },
   {
     icon: Users,
@@ -38,7 +38,7 @@ export default function AboutUs() {
         >
           <h2 className="text-3xl font-bold mb-4">About Us</h2>
           <p className="text-muted-foreground max-w-3xl mx-auto">
-          With over two decades of excellence in the glass industry, GlassCraft has established itself as a leading innovator in glass manufacturing and processing. As one of the pioneers of mirror manufacturing in India, our journey began in 1995, and since our formal establishment in 2004, we've continued to push the boundaries of what's possible with glass.
+          With over two decades of excellence in the mirror industry, GlassCraft has established itself as a leading innovator in mirror manufacturing and processing. As one of the pioneers of mirror manufacturing in India, our journey began in 1995, and since our formal establishment in 2004, we've continued to push the boundaries of what's possible with glass.
           </p>
         </motion.div>
 
@@ -74,7 +74,7 @@ export default function AboutUs() {
               <h3 className="text-2xl font-semibold mb-4">Our Journey</h3>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Starting as craftsmen in 1995, we've grown to become one of Kerala's most trusted names in glass manufacturing. Our dedication to quality and innovation has earned us recognition, including the prestigious Best Entrepreneur Award from DIC, Govt. of Kerala.
+                  Starting as craftsmen in 1995, we've grown to become one of Kerala's most trusted names in mirror manufacturing. Our dedication to quality and innovation has earned us recognition, including the prestigious Best Entrepreneur Award from DIC, Govt. of Kerala.
                 </p>
                 <p>
                   Today, we combine our traditional expertise with cutting-edge technology, offering everything from classic mirror work to smart glass solutions. Our commitment to excellence and customer satisfaction remains as strong as ever.
