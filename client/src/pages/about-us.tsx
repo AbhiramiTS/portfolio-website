@@ -38,7 +38,7 @@ export default function AboutUs() {
         >
           <h2 className="text-3xl font-bold mb-4">About Us</h2>
           <p className="text-muted-foreground max-w-3xl mx-auto">
-          With over two decades of excellence in the mirror industry, GlassCraft has established itself as a leading innovator in mirror manufacturing and processing. As one of the pioneers of mirror manufacturing in India, our journey began in 1995, and since our formal establishment in 2004, we've continued to push the boundaries of what's possible with glass.
+          With over two decades of excellence in the mirror industry, Abhirami Mirror Industry has established itself as a leading innovator in mirror manufacturing and processing. As one of the pioneers of mirror manufacturing in India, our journey began in 1995, and since our formal establishment in 2004, we've continued to push the boundaries of what's possible with glass.
           </p>
         </motion.div>
 
