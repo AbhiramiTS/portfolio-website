@@ -22,8 +22,8 @@ import {
 
 const services = [
   {
-    title: "Custom Cutting",
-    description: "Precision cutting services for any glass type and size with computer-controlled equipment.",
+    title: "Mirror Cutting and Edge Finishing",
+    description: "Precision cutting and smooth edge polishing for a perfect fit and finish.",
     icon: Scissors
   },
   {
@@ -155,7 +155,7 @@ export default function Services() {
         >
           <h1 className="text-4xl font-bold mb-4">Our Services</h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            From traditional glass processing to cutting-edge smart glass solutions, we offer comprehensive services using state-of-the-art technology and expertise.
+          At the heart of our services lies expert mirror craftsmanship, complemented by a range of Professional glass works tailored to your space.
           </p>
         </motion.div>
 
