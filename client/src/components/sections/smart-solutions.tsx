@@ -10,7 +10,7 @@ const innovations = [
     futurePlan: true
   },
   {
-    title: "Climate-Controlled Glass",
+    title: "Climate-Controlled Mirror",
     description: "Intelligent bathroom mirrors with automatic temperature control to prevent fogging",
     icon: Thermometer,
     futurePlan: true
@@ -46,9 +46,9 @@ export default function SmartSolutions() {
           transition={{ duration: 0.6 }}
           className="text-center mb-12"
         >
-          <h2 className="text-3xl font-bold mb-4">Future of Glass</h2>
+          <h2 className="text-3xl font-bold mb-4">Future of Mirror</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Pioneering smart glass solutions that blend traditional craftsmanship with cutting-edge technology.
+            Pioneering smart mirror solutions that blend traditional craftsmanship with cutting-edge technology.
           </p>
         </motion.div>
 
