@@ -60,7 +60,7 @@ export default function Contact() {
         >
           <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Get in touch with us for any inquiries about our glass products and services.
+            Get in touch with us for any inquiries about our products and services.
           </p>
         </motion.div>
 
