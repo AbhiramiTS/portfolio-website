@@ -63,7 +63,7 @@ export default function Products() {
         >
           <h1 className="text-4xl font-bold mb-4">Our Products</h1>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Explore our comprehensive range of glass products, each crafted with precision and care to meet your specific needs.
+            Explore our comprehensive range of products, each crafted with precision and care to meet your specific needs.
           </p>
         </motion.div>
 
