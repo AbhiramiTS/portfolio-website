@@ -13,8 +13,7 @@ export default function Footer() {
               <h3 className="font-bold text-lg">Abhirami Mirror Industry</h3>
             </div>
             <p className="text-sm text-muted-foreground">
-              Premier glass and mirror manufacturer in Kannur, Kerala, delivering quality solutions since 1995.
-            </p>
+            A trusted source for high-quality mirrors and glass services, combining traditional methods with consistent attention to detail.            </p>
           </div>
 
           <div>
