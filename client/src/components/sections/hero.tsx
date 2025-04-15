@@ -19,13 +19,30 @@ export default function Hero() {
             </motion.h1>
 
             <motion.p 
-              className="text-lg text-muted-foreground mb-8"
+              className="text-lg text-muted-foreground mb-4"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Leading mirror manufacturer in Kannur, combining traditional craftsmanship with cutting-edge technology. From custom designs to smart mirror solutions, we're shaping the future of mirror manufacturing.
+               Operating from 2004 to 2023. Abhirami Mirror Industry built a reputation for delivering high-quality, handcrafted mirrors using time tested techniques. serving clients across kerala with consistency, reliability and a commitment to excellence.
             </motion.p>
+
+            {/* BlueDiamond Announcement */}
+            <motion.div 
+              className="mb-8 p-4 border-l-4 border-blue-500 bg-muted rounded"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.3 }}
+            >
+              <h2 className="text-xl font-semibold text-blue-700 mb-1">
+                Announcing Our New Identity
+              </h2>
+              <p className="text-muted-foreground">
+                Abhirami Mirror Industry is now <span className="font-bold text-blue-800">
+                <span className="font-bold text-blue-800 cursor-pointer">BlueDiamond</span>
+                  </span> – same legacy, modern vision. We’re excited to relaunch with new ideas while continuing to honor our craftsmanship roots.
+              </p>
+            </motion.div>
 
             <motion.div
               className="space-x-4"
