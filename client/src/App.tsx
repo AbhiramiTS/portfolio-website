@@ -12,7 +12,6 @@ import Contact from "@/pages/contact";
 import NotFound from "@/pages/not-found";
 import AboutUs from "./pages/about-us";
 import Quote from "./pages/quote";
-import RebrandingPage from "./pages/rebranding";
 // import { Quote } from "lucide-react";
 
 function Router() {
@@ -27,7 +26,6 @@ function Router() {
       <Route path="/services" component={Services} />
       <Route path="/contact" component={Contact} />
       <Route path="/get-a-quote" component={Quote} />
-      <Route path="/rebranding" component={RebrandingPage} />
       <Route component={NotFound} />
     </Switch>
   </main>
