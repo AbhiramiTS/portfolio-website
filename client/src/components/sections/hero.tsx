@@ -39,7 +39,7 @@ export default function Hero() {
               </h2>
               <p className="text-muted-foreground">
                 Abhirami Mirror Industry is now <span className="font-bold text-blue-800">
-                <span className="font-bold text-blue-800 cursor-pointer">BlueDiamond</span>
+                <span className="font-bold text-blue-800 cursor-pointer">Blue Dymond</span>
                   </span> – same legacy, modern vision. We’re excited to relaunch with new ideas while continuing to honor our craftsmanship roots.
               </p>
             </motion.div>
