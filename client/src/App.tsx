@@ -11,6 +11,7 @@ import Services from "@/pages/services";
 import Contact from "@/pages/contact";
 import NotFound from "@/pages/not-found";
 import AboutUs from "./pages/about-us";
+import BlueDymond from "./pages/blue-dymond";
 import Quote from "./pages/quote";
 // import { Quote } from "lucide-react";
 
@@ -26,6 +27,7 @@ function Router() {
       <Route path="/services" component={Services} />
       <Route path="/contact" component={Contact} />
       <Route path="/get-a-quote" component={Quote} />
+      <Route path="/blue-dymond" component={BlueDymond} />
       <Route component={NotFound} />
     </Switch>
   </main>
